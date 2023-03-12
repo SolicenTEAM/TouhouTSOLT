@@ -6,7 +6,7 @@
 	],
 	"id": "lang-uk",
 	"servers": [
-		"https://raw.githubusercontent.com/SolicenTEAM/TouhouTSOLT/master/lang-uk/"
+		"https://raw.githubusercontent.com/SolicenTEAM/TouhouTSOLT/main/lang-uk/"
 	],
 	"title": "Украинский перевод игры",
 	"update": true
