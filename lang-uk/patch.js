@@ -1,8 +1,8 @@
 {
 	"dependencies": [
-		"nmglgc/base_tsa",
-		"nmglgc/script_latin",
-		"nmglgc/western_name_order"
+		"nmlgc/base_tsa",
+		"nmlgc/script_latin",
+		"nmlgc/western_name_order"
 	],
 	"id": "lang-uk",
 	"servers": [
