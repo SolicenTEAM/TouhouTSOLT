@@ -1,0 +1,309 @@
+{
+    "8": {
+        "lines": [
+            "The bamboo forest of Eientei."
+        ]
+    },
+    "10": {
+        "lines": [
+            "Two figures could be seen passing through the undergrowth.",
+            "      They were almost as experienced as they were lost.",
+            "      Past the bamboo maze, they stumbled upon a clearing, ",
+            "      wherein the moonlight shone down on a beautiful old estate."
+        ]
+    },
+    "14": {
+        "lines": [
+            "The mansion looked older than time itself,",
+            "      as if not a soul in Gensokyo had ever called it home."
+        ]
+    },
+    "17": {
+        "lines": [
+            "Perhaps it was merely an illusionary deception?"
+        ]
+    },
+    "21": {
+        "lines": [
+            "Marisa  \"Finding this old place was pretty fun, don'tcha think?\""
+        ]
+    },
+    "24": {
+        "lines": [
+            "Alice   \"I swear, I never should have come with you.\""
+        ]
+    },
+    "27": {
+        "lines": [
+            "Marisa  \"Well, have fun getting lost trying to find your way back!\""
+        ]
+    },
+    "30": {
+        "lines": [
+            "Alice   \"You'd leave me lost and alone in *this* forest?!\""
+        ]
+    },
+    "33": {
+        "lines": [
+            "Marisa  \"Wow, seeing these ancient ruins, I feel like",
+            "        an archeologist at an excavation.\""
+        ]
+    },
+    "36": {
+        "lines": [
+            "Alice   \"So now we're grave robbers?  Let's go home.\""
+        ]
+    },
+    "39": {
+        "lines": [
+            "Marisa  \"Let's go in.",
+            "        What fun do you expect to have out here?\""
+        ]
+    },
+    "44": {
+        "lines": [
+            "Reisen  \"Whoa, hold it!\""
+        ]
+    },
+    "47": {
+        "lines": [
+            "Marisa  \"Someone came out.\""
+        ]
+    },
+    "50": {
+        "lines": [
+            "Reisen  \"Get out of here, this is my home!"
+        ]
+    },
+    "52": {
+        "lines": [
+            "What are you up to, sneaking in here like that?\""
+        ]
+    },
+    "55": {
+        "lines": [
+            "Marisa  \"I just came to have a look. We're not going anywhere."
+        ]
+    },
+    "57": {
+        "lines": [
+            "I'm a witch most of the time, except when I'm an archeologist."
+        ]
+    },
+    "59": {
+        "lines": [
+            "I'm doing archeological work right now, so are",
+            "        you going to let us in or not?\""
+        ]
+    },
+    "62": {
+        "lines": [
+            "Reisen  \"Hmph, even if you are an archeologist, I can't just let you in!"
+        ]
+    },
+    "64": {
+        "lines": [
+            "Wait, if you're a witch, I don't see how you can be",
+            "        an archeologist too...\""
+        ]
+    },
+    "67": {
+        "lines": [
+            "Marisa  \"Archeologist, grave robber, same thing.\""
+        ]
+    },
+    "70": {
+        "lines": [
+            "Reisen  \"Grave robber?!\""
+        ]
+    },
+    "72": {
+        "lines": [
+            "Reisen  \"Go away! This isn't a tomb, anyway...\""
+        ]
+    },
+    "75": {
+        "lines": [
+            "Marisa  \"Ah, correction, we're thieves.\""
+        ]
+    },
+    "78": {
+        "lines": [
+            "Reisen  \"Shut up.\""
+        ]
+    },
+    "81": {
+        "lines": [
+            "Alice   \"You shouldn't have said that, Marisa. Maybe something like",
+            "        'We're here for our appointment' would have worked better.\""
+        ]
+    },
+    "85": {
+        "lines": [
+            "Marisa  \"That's a good one, let's try that.\""
+        ]
+    },
+    "88": {
+        "lines": [
+            "Alice   \"I don't think it'll work now.\""
+        ]
+    },
+    "92": {
+        "lines": [
+            "Kaguya  \"Oh, we have guests?",
+            "        It's been ever so long since we've had company.\""
+        ]
+    },
+    "95": {
+        "lines": [
+            "Reisen  \"They're just thieves.\""
+        ]
+    },
+    "98": {
+        "lines": [
+            "Kaguya  \"Thieves are nothing to be worried about."
+        ]
+    },
+    "100": {
+        "lines": [
+            "Inaba, go fetch the four seasons tea and serve our guests.\""
+        ]
+    },
+    "103": {
+        "lines": [
+            "Marisa  \"You don't have to do all that.\""
+        ]
+    },
+    "106": {
+        "lines": [
+            "Alice   \"We aren't thieves, by the way.\""
+        ]
+    },
+    "109": {
+        "lines": [
+            "Reisen  \"Are we really going to treat these people as if they're guests?\""
+        ]
+    },
+    "112": {
+        "lines": [
+            "Kaguya  \"I've been in hiding for ages."
+        ]
+    },
+    "114": {
+        "lines": [
+            "But I never knew there were Earthlings",
+            "        that were as powerful as those on the Moon,"
+        ]
+    },
+    "116": {
+        "lines": [
+            "though I had heard rumours of them here in Gensokyo.\""
+        ]
+    },
+    "119": {
+        "lines": [
+            "Marisa  \"Real nice place you got, here.\""
+        ]
+    },
+    "122": {
+        "lines": [
+            "Alice   \"Marisa, were you even listening?\""
+        ]
+    },
+    "125": {
+        "lines": [
+            "Marisa  \"This here's the person who swapped our moon for that fake one.\""
+        ]
+    },
+    "128": {
+        "lines": [
+            "Alice   \"You certainly had fun taking care of all those delinquent youkai.",
+            "        Say, do you think we could continue this after we finish our tea?\""
+        ]
+    },
+    "132": {
+        "lines": [
+            "Kaguya  \"Strange, isn't it?"
+        ]
+    },
+    "134": {
+        "lines": [
+            "I remember the Earth being populated by numerous youkai."
+        ]
+    },
+    "136": {
+        "lines": [
+            "However..."
+        ]
+    },
+    "138": {
+        "lines": [
+            "I don't remember there being this many humans.",
+            "        When did the youkai stop feasting upon them?\""
+        ]
+    },
+    "140": {
+        "lines": [
+            "Kaguya  \"This is such a constrained world...\""
+        ]
+    },
+    "143": {
+        "lines": [
+            "Marisa  \"They never really stopped.\""
+        ]
+    },
+    "146": {
+        "lines": [
+            "Alice   \"You're such a disgrace to your own race",
+            "        that I'd rather starve to death than eat you.\""
+        ]
+    },
+    "149": {
+        "lines": [
+            "Kaguya  \"It's quite interesting how humans and youkai interact."
+        ]
+    },
+    "151": {
+        "lines": [
+            "This little evening chat has been fascinating indeed.\""
+        ]
+    },
+    "154": {
+        "lines": [
+            "Reisen  \"Please don't forget that they're thieves.\""
+        ]
+    },
+    "157": {
+        "lines": [
+            "Marisa  \"I'm an archeologist!\""
+        ]
+    },
+    "160": {
+        "lines": [
+            "In fact, the weak moon wasn't the real one.",
+            "      Now, the true full moon shines brightly upon Gensokyo,",
+            "      bewitchingly restoring the land's power."
+        ]
+    },
+    "164": {
+        "lines": [
+            "Kaguya and her entourage decided to stay in Gensokyo.",
+            "      Within its protective barrier,",
+            "      they were safe from any Lunarians pursuing her.",
+            "      And with no need for a fake moon, the true moon was returned."
+        ]
+    },
+    "168": {
+        "lines": [
+            "Those who came from the cosmos to Gensokyo had always shunned visitors.",
+            "      But with people like these two, Kaguya and the others have",
+            "      no choice but to get to know them."
+        ]
+    },
+    "171": {
+        "lines": [
+            "Good Ending #2",
+            "    Thanks for playing!  (The trial of guts lies ahead...)"
+        ]
+    }
+}
