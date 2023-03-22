@@ -2,77 +2,77 @@
     "0": {
         "60_0": {
             "lines": [
-                "Look, there's nothing out here!"
+                "Смотри, здесь ничего нет!"
             ]
         },
         "61_0": {
             "lines": [
-                "The night's still only just begun.",
-                "No need to hurry."
+                "Ночь еще только началась."
+                "Нет нужды спешить."
             ]
         },
         "62_0": {
             "lines": [
-                "You've got no room to say \"no need to hurry\"",
-                "when you're the one who dragged me out here in a hurry."
+                "У тебя нет места, чтобы сказать \"не нужно торопиться\"",
+                "когда ты тот, кто притащил меня сюда в спешке."
             ]
         },
         "63_0": {
             "lines": [
-                "You owe me big for this, so don't you forget it."
+                "Ты мне должна за это, так что не забывай об этом."
             ]
         },
         "63_1": {
             "lines": [
-                "You've been saying \"nothing here\" for a while now...",
-                "I'm here, aren't I?!"
+                "Ты уже давно говоришь \"ничего здесь\"...",
+                "Я здесь, не так ли?!"
             ]
         },
         "124_h1_0": {
             "lines": [
-                "Insect of Light Wriggling in Darkness"
+                "Насекомое Света, извивающееся во тьме"
             ]
         },
         "125_0": {
             "lines": [
-                "Don't worry about it..."
+                "Не волнуйся об этом..."
             ]
         },
         "126_0": {
             "lines": [
-                "I'll pay you back.",
-                "It's not like I'm you."
+                "Я отплачу тебе.",
+                "Это не так, как будто я это ты."
             ]
         },
         "127_0": {
             "lines": [
-                "Hey, hey, hey!"
+                "Эй, эй, эй!"
             ]
         },
         "128_0": {
             "lines": [
-                "You've got some guts, not being bugged by me."
+                "У тебя есть мужество, я тебя не достаю."
             ]
         },
         "129_0": {
             "lines": [
-                "I hope you've got the determination to match that!"
+                "Надеюсь, у тебя есть решимость соответствовать этому!"
             ]
         },
         "130_0": {
             "lines": [
-                "Was that a pun?"
+                "Это была игра слов?"
             ]
         },
         "131_0": {
             "lines": [
-                "Was it?"
+                "Было ли это?"
             ]
         },
         "132_0": {
             "lines": [
-                "That reminds me, I forgot something important",
-                "for an evening stroll. Back at the shrine."
+                "Это напомнило мне, что я забыла кое-что важное",
+                "для вечерней прогулки. Вернуться в храм."
             ]
         },
         "133_0": {
@@ -82,42 +82,42 @@
         },
         "134_0": {
             "lines": [
-                "I know what you're trying to say.",
-                "A mosquito coil, right?"
+                "Я знаю, что ты пытаешься сказать.",
+                "Противомоскитная спираль, верно?"
             ]
         },
         "135_0": {
             "lines": [
-                "I'm a firefly!"
+                "Я светлячок!"
             ]
         }
     },
     "1": {
         "60_0": {
             "lines": [
-                "Really, it's awful at night with all these bugs around."
+                "Действительно, ночью ужасно, когда вокруг столько жуков."
             ]
         },
         "61_0": {
             "lines": [
-                "Says the one who's only awake at night."
+                "Говорит тот, кто бодрствует только ночью."
             ]
         },
         "62_0": {
             "lines": [
-                "Yes, because nature thrives during the night."
+                "Да, потому что природа процветает ночью."
             ]
         },
         "63_0": {
             "lines": [
-                "There've been lots of fireflies, lately...",
-                "Kinda makes me worry a little about the outside world."
+                "В последнее время было много светлячков...",
+                "Это заставляет меня немного беспокоиться о внешнем мире."
             ]
         },
         "64_0": {
             "lines": [
-                "You understand, don't you?",
-                "It's not like you to worry, though."
+                "Ты же поняла, не так ли?",
+                "Впрочем, на тебя это не похоже."
             ]
         }
     }
