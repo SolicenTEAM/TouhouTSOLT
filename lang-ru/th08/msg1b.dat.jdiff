@@ -2,105 +2,105 @@
     "0": {
         "60_0": {
             "lines": [
-                "Ah, the Moon is beautiful tonight."
+                "Ах, Луна сегодня прекрасна."
             ]
         },
         "61_0": {
             "lines": [
-                "What? Does it seriously look like that to you?"
+                "Что? Тебе ты серьезно так думаешь?"
             ]
         },
         "62_0": {
             "lines": [
-                "Hmph. It's beautiful, isn't it?",
-                "What do ya call a moon like this? The matsuyoi?"
+                "Хм. Прекрасно, не так ли??",
+                "Как ты назовешь такую луну? Мацуёи?"
             ]
         },
         "63_0": {
             "lines": [
-                "I envy your carefree manner. If I could've enjoyed",
-                "moon-viewing, and hadn't been short of hands..."
+                "Я завидую твоей беззаботности. Если бы я могла наслаждаться",
+                "созерцанием луны, и не было недостатка в руках..."
             ]
         },
         "64_0": {
             "lines": [
-                "I'd never have taken you with me tonight."
+                "Я бы никогда не взяла тебя с собой сегодня вечером."
             ]
         },
         "64_1": {
             "lines": [
-                "It's a waste not to enjoy a moonlit night, isn't it?"
+                "Грех не наслаждаться лунной ночью, не так ли??"
             ]
         },
         "125_0": {
             "lines": [
-                "Right? You two?"
+                "Верно? Ты тоже?"
             ]
         },
         "126_0": {
             "lines": [
-                "Totally enjoying it. 'Least, I am."
+                "Полностью наслаждаюсь этим."
             ]
         },
         "127_0": {
             "lines": [
-                "Well, I'm enjoying myself, too!",
-                "At least more than you, Marisa."
+                "Ну, я тоже наслаждаюсь!",
+                "По крайней мере, больше, чем ты, Мариса."
             ]
         },
         "128_0": {
             "lines": [
-                "Didn't you just say something completely different?"
+                "Разве ты не сказала что-то совсем другое??"
             ]
         },
         "129_0": {
             "lines": [
-                "Of course not.",
-                "I'm not enjoying the moon-viewing, but the—"
+                "Конечно, нет.",
+                "Я не наслаждаюсь видом на луну, но-"
             ]
         },
         "130_0": {
             "lines": [
-                "Firefly-watching, right?"
+                "Наблюдаешь за светлячками, да??"
             ]
         },
         "131_0": {
             "lines": [
-                "Almost, but not quite. Very perceptive of you, though."
+                "Почти, но не совсем. Однако очень проницательно с твоей стороны."
             ]
         },
         "132_0": {
             "lines": [
-                "...C'mon, I'll shoot first if you don't!"
+                "...Давай, я буду стрелять первой, если ты не будешь!"
             ]
         },
         "133_0": {
             "lines": [
-                "It's more like firefly-HUNTING."
+                "Это больше похоже на ОХОТУ на светлячков."
             ]
         }
     },
     "1": {
         "60_0": {
             "lines": [
-                "You realize firefly-hunting is about",
-                "catching them, not beating them up, right?"
+                "Ты понимаешь, что охота на светлячков - это значит",
+                "что нужно ловить их, а не бить, верно??"
             ]
         },
         "61_0": {
             "lines": [
-                "I wanted to catch it, but you went and",
-                "squished it!"
+                "Я хотела поймать его, но ты пошла и",
+                "раздавила его!"
             ]
         },
         "62_0": {
             "lines": [
-                "Geez, what a pain..."
+                "Блин, какая боль..."
             ]
         },
         "63_0": {
             "lines": [
-                "Don't get me wrong— all I did was dodge it."
+                "Не пойми меня неправильно — я всего лишь увернулась."
             ]
         }
     }
