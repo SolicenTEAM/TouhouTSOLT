@@ -2,115 +2,115 @@
     "0": {
         "60_0": {
             "lines": [
-                "Wait, waaaait!"
+                "Стой, стооой!"
             ]
         },
         "60_1": {
             "lines": [
-                "What?"
+                "Что??"
             ]
         },
         "60_2": {
             "lines": [
-                "I thought you were some foolishly-tasty humans,",
-                "at long last."
+                "Я думала, что вы, наконец, глупо-вкусные",
+                "людишки."
             ]
         },
         "61_h1_0": {
             "lines": [
-                "Mystia Lorelei"
+                "Мистия Лорелей"
             ]
         },
         "61_0": {
             "lines": [
-                "Who exactly would you two be~?"
+                "Кем бы вы двое были~??"
             ]
         },
         "63_0": {
             "lines": [
-                "Um, non-humans."
+                "Эм, нелюдями."
             ]
         },
         "63_1": {
             "lines": [
-                "Non-humans?"
+                "Нелюди??"
             ]
         },
         "65_0": {
             "lines": [
-                "Well, human or not, I'm fine either way."
+                "Ну, человек или нет, я в любом случае в порядке."
             ]
         },
         "65_1": {
             "lines": [
-                "My, that's rare. Seeing non-humans go along this road."
+                "Ого, это редкость. Видеть, как по этой дороге идут нелюди."
             ]
         },
         "66_0": {
             "lines": [
-                "Hmm. You seem to be a night sparrow."
+                "Хм. Ты похожа на ночного воробья."
             ]
         },
         "67_0": {
             "lines": [
-                "You shouldn't attack just humans so often~."
+                "Ты не должна так часто атаковать только людей~."
             ]
         },
         "68_0": {
             "lines": [
-                "There won't be any more left around here."
+                "Здесь больше никого не останется."
             ]
         },
         "70_0": {
             "lines": [
-                "That might be so, how about attacking",
-                "youkai instead of humans?"
+                "Это может быть так, как насчет нападения",
+                "на ёкев вместо людей??"
             ]
         },
         "70_1": {
             "lines": [
-                "Oh, never mind. Besides, human forms haven't been seen",
-                "on night roads for a long time."
+                "Ох, неважно. Кроме того, я давно не видела человеческие формы",
+                "которые ходят по ночным дорогам."
             ]
         },
         "71_0": {
             "lines": [
-                "If there's anyone here at all, it'd be non-humans who were",
-                "in a big hurry, or had some important reason to be here."
+                "Если здесь вообще кто-то есть, то это нелюди, которые очень",
+                "торопились или имели какую-то важную причину присутствия."
             ]
         },
         "72_0": {
             "lines": [
-                "Listen. I'll say this once more.",
-                "We are non-humans, in a hurry, with an important reason."
+                "Послушай. Я скажу это еще раз.",
+                "Мы нелюди, спешим по важной причине."
             ]
         },
         "73_0": {
             "lines": [
-                "We don't have time to waste here.",
-                "Will you let us pass?"
+                "У нас нет времени, чтобы терять его здесь.",
+                "Ты позволишь нам пройти??"
             ]
         },
         "74_0": {
             "lines": [
-                "The end of this road isn't a place where",
-                "youkai like Yukari often visit, though..."
+                "Конец этой дороги не то место, где",
+                "бывают ёкаи вроде Юкари..."
             ]
         },
         "75_0": {
             "lines": [
-                "Aw, even though you're playmates after so long..."
+                "Ой, хоть вы и товарищи после стольких лет..."
             ]
         },
         "76_0": {
             "lines": [
-                "I know. How about we go to the village",
-                "and mess with the humans together?"
+                "Я знаю. Как насчет того, чтобы пойти в деревню",
+                "и повозиться с людьми вместе??"
             ]
         },
         "77_0": {
             "lines": [
-                "Ahh, geeze, I've said this before, haven't I!?"
+                "Ааа, господи, я уже говорила это раньше, не так ли!??"
             ]
         },
         "78_0": {
@@ -125,60 +125,60 @@
         },
         "80_0": {
             "lines": [
-                "I can't see in the dark."
+                "Я не вижу в темноте."
             ]
         },
         "81_0": {
             "lines": [
-                "Ah, human sighted."
+                "Ах, зрение человека."
             ]
         },
         "82_0": {
             "lines": [
-                "I'll make you night-blind!"
+                "Я дам тебе ночную слепоту!"
             ]
         }
     },
     "1": {
         "60_0": {
             "lines": [
-                "Goodness, it was only a night sparrow."
+                "Господи, это был всего лишь ночной воробей."
             ]
         },
         "61_0": {
             "lines": [
-                "It's hopelessly too early for her to be",
-                "acting like a king of bird lice."
+                "Ей безнадежно рано вести",
+                "себя как король птичьих вшей."
             ]
         },
         "62_0": {
             "lines": [
-                "...Was that really a sparrow just now?",
-                "It was dark, and I couldn't see well."
+                "...Это действительно был воробей??",
+                "Было темно, и я плохо видела."
             ]
         },
         "63_0": {
             "lines": [
-                "If you see a small bird at night,",
-                "it's usually a night sparrow."
+                "Если увидишь маленькую птичку ночью,",
+                "обычно это ночной воробей."
             ]
         },
         "64_0": {
             "lines": [
-                "If you don't treat them with caution, you'll become",
-                "unable to see in dark places."
+                "Если ты не будешь относиться к ним с осторожностью,",
+                "не можешь видеть в темных местах."
             ]
         },
         "65_0": {
             "lines": [
-                "(...is that really what sparrows are like?",
-                "Although I couldn't see it well.)"
+                "(...неужели воробьи действительно такие?",
+                "Хотя я плохо разглядела.)"
             ]
         },
         "66_0": {
             "lines": [
-                "Ah, I can see the Human Village. I didn't",
-                "really want to come here with you, though..."
+                "А, я вижу Деревню Людей. Хотя я и не",
+                "собиралась идти с тобой сюда..."
             ]
         }
     }
