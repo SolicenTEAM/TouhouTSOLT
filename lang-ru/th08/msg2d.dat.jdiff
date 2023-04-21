@@ -2,128 +2,128 @@
     "0": {
         "60_0": {
             "lines": [
-                "Wait, waaaait!"
+                "Стой, стооой!"
             ]
         },
         "61_0": {
             "lines": [
-                "You're in the way."
+                "Ты мешаешь."
             ]
         },
         "61_1": {
             "lines": [
-                "The two of you aren't hearing my song, are you?"
+                "Вы двое не слышите мою песню, не так ли?"
             ]
         },
         "62_0": {
             "lines": [
-                "Perhaps you're not human?"
+                "Может ты не человек?"
             ]
         },
         "64_0": {
             "lines": [
-                "It's nighttime, but I hear a sparrow calling. Youmu?"
+                "Уже ночь, но я слышу зов воробья. "
             ]
         },
         "64_1": {
             "lines": [
-                "Lady Yuyuko,",
-                "please don't get distracted by this song."
+                "Леди Ююко,",
+                "пожалуйста, не отвлекайтесь на эту песню."
             ]
         },
         "65_0": {
             "lines": [
-                "That's the cry of a night sparrow.",
-                "It's one of the most accursed sounds in the world."
+                "Это крик ночного воробья.",
+                "Это один из самых проклятых звуков в мире."
             ]
         },
         "66_0": {
             "lines": [
-                "Accursed? How rude of you."
+                "Проклятый? Как грубо с твоей стороны."
             ]
         },
         "67_0": {
             "lines": [
-                "At the very least, my singing is better than the sound of",
-                "approaching phantoms, isn't it?"
+                "По крайней мере, моё пение лучше, чем звук",
+                "приближающихся фантомов, не так ли?"
             ]
         },
         "69_0": {
             "lines": [
-                "Yes, indeed. It's no contest at all."
+                "Да, в самом деле. Это вообще не соревнование."
             ]
         },
         "69_1": {
             "lines": [
-                "Please don't agree with her..."
+                "Пожалуйста, не соглашайся с ней..."
             ]
         },
         "70_0": {
             "lines": [
-                "Youmu, listen! The cries got louder again.",
-                "I wonder where they're coming from."
+                "Ёму, слушай! Крики снова стали громче.",
+                "Интересно, откуда они берутся."
             ]
         },
         "71_0": {
             "lines": [
-                "Geeze. Whether you are human or",
-                "you were human, it doesn't matter to me."
+                "Блин. Являешься ты человеком или",
+                "был им, для меня это не имеет значения."
             ]
         },
         "72_0": {
             "lines": [
-                "Now, the fun youkai festival begins!"
+                "Веселый фестиваль ёкаев начинается!"
             ]
         },
         "73_0": {
             "lines": [
-                "Okay, Youmu. Shall we hurry along?"
+                "Хорошо, Ёму. Давай поспешим?"
             ]
         },
         "74_0": {
             "lines": [
-                "Eh? Uh, yes. I suppose we should, yes. But we've got to",
-                "shoot down this bird in front of us, first off."
+                "А? А, да. Думаю, мы должны, да. Но нам надо",
+                "сбить эту птицу перед нами, в первую очередь."
             ]
         },
         "75_0": {
             "lines": [
-                "I don't like sparrows.",
-                "They're too bony."
+                "Я не люблю воробьев.",
+                "Они слишком костлявые."
             ]
         },
         "76_0": {
             "lines": [
-                "You shall not pass!"
+                "Ты не должна пройти!"
             ]
         }
     },
     "1": {
         "60_0": {
             "lines": [
-                "That night sparrow's appearance is going to attract",
-                "lots of youkai and other things, before long."
+                "Внешний вид этого ночного воробья привлечет",
+                "много ёкаев и других вещей."
             ]
         },
         "61_0": {
             "lines": [
-                "Let's move on before that happens.",
-                "We have to hurry."
+                "Давай двигаться дальше, прежде чем это произойдет.",
+                "Мы должны спешить."
             ]
         },
         "62_0": {
             "lines": [
-                "Hang on. Got a bone in my throat..."
+                "Подожди. У меня кость в горле..."
             ]
         },
         "63_0": {
             "lines": [
-                "Didn't you just say you didn't like sparrows?"
+                "Разве ты только что не сказала, что не любишь воробьев?"
             ]
         },
         "64_0": {
             "lines": [
-                "It's not good to be a picky eater, Youmu."
+                "Нехорошо быть разборчивой в еде, Ёму."
             ]
         }
     }
