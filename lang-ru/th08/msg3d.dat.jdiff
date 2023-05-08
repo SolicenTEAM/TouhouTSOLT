@@ -2,95 +2,95 @@
     "2": {
         "61_0": {
             "lines": [
-                "Is it you? Are you the ones trying to attack",
-                "the village in the middle of this night?"
+                "Это ты? Ты одна из тех, кто пытался атаковать",
+                "деревню посреди ночи?"
             ]
         },
         "62_0": {
             "lines": [
-                "Oh?",
-                "It seems we've gotten lost in some strange place."
+                "А?",
+                "Кажется, мы заблудились в каком-то странном месте."
             ]
         },
         "63_0": {
             "lines": [
-                "Yeah, where are we...?"
+                "Да, где мы...?"
             ]
         },
         "64_0": {
             "lines": [
-                "There's no point in playing innocent.",
-                "I can tell you're ominous ghosts."
+                "Нет смысла играть невиновным.",
+                "Я могу сказать, что вы зловещие призраки."
             ]
         }
     },
     "3": {
         "61_0": {
             "lines": [
-                "Crap!",
-                "These ghosts are really something."
+                "Дерьмо!",
+                "Эти призраки - нечто."
             ]
         },
         "62_0": {
             "lines": [
-                "Oh, how cruel.",
-                "Treating ghosts like outcasts, really."
+                "О, как жестоко.",
+                "Отношение к призракам как к изгоям, верно."
             ]
         }
     },
     "0": {
         "60_0": {
             "lines": [
-                "What business do you have in some place like this?"
+                "Что ты тут забыла?"
             ]
         },
         "60_1": {
             "lines": [
-                "You attacked us before, right?",
-                "We're just going to respond to that."
+                "Ты напала на нас раньше, верно?",
+                "Мы просто ответим на это."
             ]
         },
         "61_0": {
             "lines": [
-                "There's nothing here.",
-                "Just move along already."
+                "Здесь ничего нет.",
+                "Просто иди уже."
             ]
         },
         "62_0": {
             "lines": [
-                "It's easy to say that, but we really",
-                "don't know where we're moving to..."
+                "Легко так говорить, но на самом деле мы",
+                "не знаем, куда мы едем..."
             ]
         },
         "63_0": {
             "lines": [
-                "Are you just wandering around with no goal?"
+                "Вы просто бродите без цели?"
             ]
         },
         "64_0": {
             "lines": [
-                "No, no, Youmu."
+                "Нет, нет, Ёму."
             ]
         },
         "65_0": {
             "lines": [
-                "We're certainly heading in the right direction.",
-                "All you need to do is go where I tell you to."
+                "Мы определенно движемся в правильном направлении.",
+                "Все, что тебе нужно сделать, это пойти туда, куда я тебе скажу."
             ]
         },
         "66_0": {
             "lines": [
-                "What is your purpose?"
+                "Какова твоя цель?"
             ]
         },
         "67_0": {
             "lines": [
-                "To restore this abnormal Moon to normal."
+                "Вернуть эту ненормальную Луну в нормальное состояние."
             ]
         },
         "68_0": {
             "lines": [
-                "No, no, Youmu."
+                "Нет, нет, Ёму."
             ]
         },
         "69_0": {
@@ -100,140 +100,140 @@
         },
         "70_0": {
             "lines": [
-                "We're having our fill of a wonderful",
-                "nighttime sightseeing tour."
+                "Нас ждёт замечательная",
+                "ночная экскурсия."
             ]
         },
         "71_0": {
             "lines": [
-                "You two are really way too suspicious."
+                "Вы двое действительно слишком подозрительны."
             ]
         },
         "72_0": {
             "lines": [
-                "Although phantoms are suspicious at the best of times."
+                "Хотя фантомы и в лучшие времена подозрительны."
             ]
         },
         "73_0": {
             "lines": [
-                "Wait, I can't just let you say that.",
-                "Phantoms aren't suspicious."
+                "Подожди, я не могу просто позволить тебе это сказать.",
+                "Фантомы не вызывают подозрений."
             ]
         },
         "74_0": {
             "lines": [
-                "No, no—"
+                "Нет нет-"
             ]
         },
         "75_0": {
             "lines": [
-                "Shut up."
+                "Замолчи."
             ]
         },
         "76_0": {
             "lines": [
-                "...You two really do seem dangerous.",
-                "Looks like I'll have to drive you away from here."
+                "...Вы двое действительно кажетесь опасными.",
+                "Похоже, мне придется увезти тебя отсюда."
             ]
         },
         "77_0": {
             "lines": [
-                "Although I don't quite get what you're doing."
+                "Хотя я не совсем понимаю, что ты делаешь."
             ]
         },
         "78_0": {
             "lines": [
-                "Hey, hey, Youmu."
+                "Эй, эй, Ёму."
             ]
         },
         "79_0": {
             "lines": [
-                "So far, we've had a bug, a bird, and now a beast."
+                "До сих пор у нас был жук, птица, а теперь зверь."
             ]
         },
         "80_0": {
             "lines": [
-                "What are you trying to say?"
+                "Что ты пытаешься сказать?"
             ]
         },
         "81_0": {
             "lines": [
-                "Hmph. I'll help myself to all of your history!"
+                "Хм. Я помогу себе со всей твоей историей!"
             ]
         },
         "82_0": {
             "lines": [
-                "Every last bit. Even from before you became phantoms."
+                "Каждый последний миг. Еще до того, как вы стали фантомами."
             ]
         },
         "83_0": {
             "lines": [
-                "I wonder if a dragon's up next."
+                "Интересно, будет ли дракон следующим."
             ]
         },
         "84_0": {
             "lines": [
-                "Lady Yuyuko. Please concentrate on what's happening",
-                "now, and not what's going to happen next."
+                "Леди Ююко. Пожалуйста, сосредоточьтесь на том, что происходит",
+                "сейчас, а не на том, что будет дальше."
             ]
         }
     },
     "1": {
         "60_0": {
             "lines": [
-                "\"Beast\"? Please, milady,",
-                "you shouldn't treat humans like beasts."
+                "\"Зверь\"? Пожалуйста, миледи,",
+                "нельзя относиться к людям как к животным."
             ]
         },
         "61_0": {
             "lines": [
-                "No, no, Youmu."
+                "Нет, нет, Ёму."
             ]
         },
         "62_0": {
             "lines": [
-                "This girl appears human right now,",
-                "but she's a half-beast. Kind of like you."
+                "Сейчас эта девушка кажется человеком,",
+                "но она полуживотное. "
             ]
         },
         "63_0": {
             "lines": [
-                "Although, I think humans are beasts too,",
-                "so I guess she's a full beast?"
+                "Хотя, я думаю, люди тоже звери,",
+                "Я так понимаю, она полный зверь?"
             ]
         },
         "64_0": {
             "lines": [
-                "Dammit. If the Moon hadn't been incomplete,",
-                "I'd never have lost to such phantoms..."
+                "Черт. Если бы Луна не была неполной,",
+                "Я бы никогда не проиграл таким фантомам..."
             ]
         },
         "65_0": {
             "lines": [
-                "Oh, yes, yes.",
-                "We got to take back the full moon."
+                "Ах, да, да.",
+                "Мы должны вернуть полную луну."
             ]
         },
         "66_0": {
             "lines": [
-                "Now, next up is a dragon dish.",
-                "I can't wait, Youmu."
+                "Теперь на очереди блюдо с драконом.",
+                "Не могу дождаться, Ёму."
             ]
         },
         "67_0": {
             "lines": [
-                "Lady Yuyuko, you said you knew where our",
-                "destination was, right?"
+                "Леди Ююко, вы сказали, что знаете, где наш",
+                "пункт назначения, верно?"
             ]
         },
         "68_0": {
             "lines": [
-                "Somehow, I feel kind of concerned."
+                "Почему-то мне как-то тревожно."
             ]
         },
         "69_0": {
             "lines": [
-                "A dragon would have lots of scales, though."
+                "Однако у дракона было бы много чешуи."
             ]
         }
     }
